@@ -1,0 +1,82 @@
+
+#add,#product:link,#add,#product:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-top:9%;
+  width:350px;
+  font-weight:bold;
+  border-radius:8px;
+}
+
+#add,#product:hover, #add,#product:active {
+  background-color: red;
+}
+#update,#stock:link, #update,#stock:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-top:1%;
+  width:350px;
+  font-weight:bold;
+   border-radius:8px;
+}
+
+#update,#stock:hover,#update, #stock:active {
+  background-color: red;
+}
+#delete,#bill:link, #delete,#bill:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-top:1%;
+  width:350px;
+  font-weight:bold;
+   border-radius:8px;
+}
+
+#delete,#bill:hover, #delete,#bill:active {
+  background-color: red;
+}
+#order:link, #order:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-top:1%;
+  width:350px;
+  font-weight:bold;
+   border-radius:8px;
+}
+
+#order:hover, #order:active {
+  background-color: red;
+}
+
+#back:link,#back:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-top:9%;
+  width:350px;
+  font-weight:bold;
+  border-radius:8px;
+}
+
+#back:hover, #back:active {
+  background-color: red;
+}
